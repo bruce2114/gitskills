@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Hello World;
 bruce/180720
 test add 2 line;
+//git 测试内容全部删除
+----------New Begin--------
